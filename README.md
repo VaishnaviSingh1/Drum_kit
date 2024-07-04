@@ -11,23 +11,23 @@ Interface
 
 Features
 -----------
-1.Interactive Buttons: Clickable buttons representing drum pads with corresponding letters ('w', 'a', 's', 'd', 'j', 'k', 'l').
+1. Interactive Buttons: Clickable buttons representing drum pads with corresponding letters ('w', 'a', 's', 'd', 'j', 'k', 'l').
 
-2.Keyboard Support: Users can also play sounds using keyboard keys corresponding to the drum pads.
+2. Keyboard Support: Users can also play sounds using keyboard keys corresponding to the drum pads.
 
-3.Sound Effects: Each button/key press triggers a distinct drum sound effect.
+3. Sound Effects: Each button/key press triggers a distinct drum sound effect.
 
-4.Button Animation: Visual feedback with button animations when pressed.
+4. Button Animation: Visual feedback with button animations when pressed.
 
 Project Files
 --------------
-1.index.html: Contains the structure of the web page, including buttons for drum pads and links to CSS and JavaScript files.
+1. index.html: Contains the structure of the web page, including buttons for drum pads and links to CSS and JavaScript files.
 
-2.index.js: JavaScript file handling the logic for playing drum sounds and button animations.
+2. index.js: JavaScript file handling the logic for playing drum sounds and button animations.
 
-3.styles.css: CSS file defining the styles for the drum kit interface.
+3. styles.css: CSS file defining the styles for the drum kit interface.
 
-4.sounds/: Directory containing sound files (crash.mp3, kick-bass.mp3, snare.mp3, tom-1.mp3, tom-2.mp3, tom-3.mp3, tom-4.mp3) used for drum sounds.
+4. sounds/: Directory containing sound files (crash.mp3, kick-bass.mp3, snare.mp3, tom-1.mp3, tom-2.mp3, tom-3.mp3, tom-4.mp3) used for drum sounds.
 
 How to Use
 -------
