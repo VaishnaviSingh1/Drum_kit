@@ -2,7 +2,7 @@ Drum Kit Project
 -------------------
 This project is a basic JavaScript-based Drum Kit application that allows users to play drum sounds by clicking buttons or using keyboard keys.
 
-interface
+Interface
 ---------
 
 ![drum-kir](https://github.com/VaishnaviSingh1/Drum_kit/assets/98222001/a9967659-cee8-4c5b-a7ab-2e8e063642b5)
