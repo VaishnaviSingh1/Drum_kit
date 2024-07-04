@@ -20,7 +20,7 @@ How to Use
 -------
 1. Clone the Repository
 ```   
-git clone <repository_url>
+git clone https://github.com/VaishnaviSingh1/Drum_kit.git
 ```
 2. Open index.html: Open the index.html file in your web browser (Chrome, Firefox, etc.).
 
